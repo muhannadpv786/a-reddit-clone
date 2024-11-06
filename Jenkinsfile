@@ -98,6 +98,6 @@ tage("Build & Push Docker Image") {
                attachmentsPattern: 'trivyfs.txt,trivyimage.txt'
         }
      }
-    
+}
 	    
 	
